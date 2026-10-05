@@ -14,3 +14,6 @@
 # 📊 GitHub Infos:
 ![](https://github-readme-stats.shion.dev/api?username=Obon3j&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Obon3j&theme=neon&hide_border=false)<br/>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
