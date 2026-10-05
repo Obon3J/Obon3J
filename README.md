@@ -12,5 +12,3 @@ Specializing in UI & UX<br>
 
 ---
 [![](https://komarev.com/ghpvc/?username=Obon3J&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
