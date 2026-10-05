@@ -7,7 +7,7 @@
 🇬🇧 | B2+ Level.
 
 ## 🌐 Mail:
-[![Student Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jules.zidi-gagneux@epitech.eu)
+[![Student Email](https://img.shields.io/badge/Student_Email-D14836?logo=gmail&logoColor=white)](mailto:jules.zidi-gagneux@epitech.eu)
 [![Personal Email](https://img.shields.io/badge/Personal_Email-D14837?logo=gmail&logoColor=white)](mailto:juleszidi@outlook.fr) 
 
 # 💻 Tech Skills:
