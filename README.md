@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ⭐ About Me:
 { E } | Student at Epitech Paris.<br>
 💻 | Specializing in UI & UX.<br>
 🎨 | Advanced knowledge of Canva.<br>
